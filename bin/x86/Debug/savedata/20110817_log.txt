@@ -1,0 +1,33 @@
+****************************************
+START : 8/17/2011 1:32:39 PM
+P-Code:P98862610
+Start Serial No: 5000266
+Next Serial No: 5000266
+Klot ID: 01917556
+Klot Qty: 100
+Line No: NW10
+Incomming Check OK
+Start Production Cycle 8/17/2011 1:34:53 PM
+Part Code Scan Match : 429272601
+Master Serial : S1050002665
+Child Qty : 10
+Incomming Check OK
+Start Production Cycle 8/17/2011 1:38:47 PM
+Part Code Scan Match : 429272601
+Master Serial : S1050002665
+Child Qty : 10
+Child Weight 1: 133.4
+Child Partcode 1: 5000268
+Child Weight 2: 131
+Child Partcode 2: 5000268
+Child Weight 3: 132.8
+Child Partcode 3: 5000268
+Incomming Check OK
+Start Production Cycle 8/17/2011 1:54:00 PM
+Part Code Scan Match : 429272601
+Master Serial : S1050002665
+Child Qty : 10
+Child Weight 1: 133.4
+Child Serial 1: 5000266
+Child Weight 2: 149.6
+Child Serial 2: 5000267

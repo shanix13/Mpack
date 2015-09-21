@@ -1,0 +1,31 @@
+****************************************
+START REWORK : 7/12/2011 11:51:25 AM
+P-Code:P17807503
+Start Serial No: 2345678
+Klot ID: 12345678
+Klot Qty: 20
+Line No: NW10
+D-Lot No: abc
+****************************************
+START REWORK : 7/12/2011 11:56:36 AM
+P-Code:P17807503
+Start Serial No: 2345678
+Klot ID: 12345678
+Klot Qty: 20
+Line No: NW10
+D-Lot No: abc
+****************************************
+START REWORK : 7/12/2011 12:01:21 PM
+P-Code:P17807503
+Start Serial No: 2345678
+Klot ID: 12345678
+Klot Qty: 20
+Line No: NW10
+D-Lot No: abc
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 7/12/2011 12:02:13 PM
+Part Code Scan Match : 420897701
+Part Code Scan Match : Q70G170070011E
+Master Serial : S0523456789
+Child Qty : 5

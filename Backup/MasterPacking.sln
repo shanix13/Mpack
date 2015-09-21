@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MasterPacking", "MasterPacking.vbproj", "{4F826C4E-DC4C-4D71-B055-4F563ACD688E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Master Packing", "..\Setup Master Packing\Setup Master Packing.vdproj", "{A6675516-0BE0-41B6-BEA5-D432EB244873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Debug|x86.ActiveCfg = Debug|x86
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Debug|x86.Build.0 = Debug|x86
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Release|x86.ActiveCfg = Release|x86
+		{4F826C4E-DC4C-4D71-B055-4F563ACD688E}.Release|x86.Build.0 = Release|x86
+		{A6675516-0BE0-41B6-BEA5-D432EB244873}.Debug|Any CPU.ActiveCfg = Debug
+		{A6675516-0BE0-41B6-BEA5-D432EB244873}.Debug|x86.ActiveCfg = Debug
+		{A6675516-0BE0-41B6-BEA5-D432EB244873}.Release|Any CPU.ActiveCfg = Release
+		{A6675516-0BE0-41B6-BEA5-D432EB244873}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

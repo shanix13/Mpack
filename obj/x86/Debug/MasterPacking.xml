@@ -1,0 +1,202 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MasterPacking
+</name>
+</assembly>
+<members>
+<member name="P:MasterPacking.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.buzzer">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.measureweight">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.NG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.NG_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.NG_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.NG_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.NG_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.OK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.OK_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.OK_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.OK_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.OK_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.Refresh_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.Scan_cSerial">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.scan_green_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.scan_green_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.Scan_mSerial">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.Scan_ProductCode">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.scan_red_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.scan_red_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.Scanning_Incoming">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.serialpot">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.Settings_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.setup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.setup_scandlotid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.setup_scanklotid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.setup_scanklotqty">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.setup_scanpartcode">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.setup_scanserialno">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.weight_green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MasterPacking.My.Resources.Resources.weight_red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MasterPacking.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:MasterPacking.LogFile.#ctor(System.String)">
+	<summary>
+ INIFile Constructor.
+ </summary>
+	<param name="INIPath"></param>
+	<remarks></remarks>
+</member><member name="M:MasterPacking.LogFile.WriteValue(System.String,System.String,System.String)">
+	<summary>
+ Write Data to the INI File
+ </summary>
+	<param name="Section"></param>
+	<param name="Key"></param>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:MasterPacking.LogFile.ReadValue(System.String,System.String)">
+	<summary>
+ Read Data Value From the Ini File
+ </summary>
+	<param name="Section"></param>
+	<param name="Key"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:MasterPacking.LogFile">
+	<summary>
+ Create a New INI file to store or load data
+ </summary>
+	<remarks></remarks>
+</member><member name="M:MasterPacking.IniFile.#ctor(System.String)">
+	<summary>
+ INIFile Constructor.
+ </summary>
+	<param name="INIPath"></param>
+	<remarks></remarks>
+</member><member name="M:MasterPacking.IniFile.WriteValue(System.String,System.String,System.String)">
+	<summary>
+ Write Data to the INI File
+ </summary>
+	<param name="Section"></param>
+	<param name="Key"></param>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:MasterPacking.IniFile.ReadValue(System.String,System.String)">
+	<summary>
+ Read Data Value From the Ini File
+ </summary>
+	<param name="Section"></param>
+	<param name="Key"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:MasterPacking.IniFile">
+	<summary>
+ Create a New INI file to store or load data
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

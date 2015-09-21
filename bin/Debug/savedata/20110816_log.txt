@@ -1,0 +1,181 @@
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 8:38:10 PM
+Part Code Scan Match : 428897901428897901428897901
+Part Code Scan Match : 428897901428897901428897901
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 8:46:55 PM
+Part Code Scan Match : 428897901428897901
+Part Code Scan Match : 428897901428897901
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 9:00:59 PM
+Part Code Scan Match : 42889790142889790142889790
+Part Code Scan Match : 4288979014288979014288979
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 9:11:33 PM
+Part Code Scan Match : 428897901428897901
+Part Code Scan Match : 428897901428897901
+Master Serial : S016025927U
+Child Qty : 1
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 9:28:39 PM
+Part Code Scan Match : 428897901428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025927U
+Child Qty : 1
+Child Weight 1: 55
+Child Serial 1: 6025927
+Balance Klot : 14
+****************************************
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025928U
+Child Qty : 1
+Child Weight 1: 52
+Child Serial 1: 6025928
+Balance Klot : 13
+****************************************
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025929U
+Child Qty : 1
+Child Weight 1: 52
+Child Serial 1: 6025929
+Balance Klot : 12
+****************************************
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 9:36:01 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025930U
+Child Qty : 1
+Child Weight 1: 52
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 9:37:09 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025930U
+Child Qty : 1
+Child Weight 1: 52
+Child Serial 1: 6025930
+Balance Klot : 11
+****************************************
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 9:44:49 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025931U
+Child Qty : 1
+Child Weight 1: 9
+Child Serial 1: 6025931
+Balance Klot : 10
+****************************************
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 9:50:04 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025932U
+Child Qty : 1
+Child Weight 1: 52
+Child Serial 1: 6025932
+Balance Klot : 9
+****************************************
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:04:09 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025933U
+Child Qty : 1
+Child Weight 1: 52
+Child Serial 1: 6025933
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:05:26 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025933U
+Child Qty : 1
+Child Weight 1: 9
+Child Serial 1: 6025933
+Balance Klot : 8
+****************************************
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:10:36 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:12:00 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025934U
+Child Qty : 1
+Child Weight 1: 9
+Child Serial 1: 6025934
+Balance Klot : 7
+****************************************
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:14:45 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025935U
+Child Qty : 1
+Child Weight 1: 9
+Child Serial 1: 6025935
+Balance Klot : 6
+****************************************
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S016025936U
+Child Qty : 1
+Child Weight 1: 9
+Child Serial 1: 6025936
+Balance Klot : 5
+****************************************
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:27:35 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S056025937U
+Child Qty : 5
+Child Weight 1: 9
+Child Serial 1: 6025937
+Child Weight 2: 7
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:30:15 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S056025937U
+Child Qty : 5
+Child Weight 1: 9
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 8/16/2011 10:31:50 PM
+Part Code Scan Match : 428897901
+Part Code Scan Match : 428897901
+Master Serial : S056025937U
+Child Qty : 5
+Child Weight 1: 9
+Child Serial 1: 6025937
+Child Weight 2: 5
+Child Serial 2: 6025938

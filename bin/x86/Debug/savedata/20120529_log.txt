@@ -1,0 +1,27 @@
+Incomming Check OK
+Start Production Cycle 29/05/2012 17:33:16
+Part Code Scan Match : 420994301 29/05/2012 17:33:18
+Master Serial : S105000277Y 29/05/2012 17:35:02
+Child Qty : 10
+Child Weight 1: 4 29/05/2012 17:35:19
+Child Serial 1: 5000277 29/05/2012 17:35:51
+Child Weight 2: 5 29/05/2012 17:36:24
+Child Serial 2: 5000278 29/05/2012 17:36:29
+Child Weight 3: 9 29/05/2012 17:37:16
+Child Serial 3: 5000279 29/05/2012 17:37:43
+Child Weight 4: 3 29/05/2012 17:37:53
+Child Serial 4: 5000280 29/05/2012 17:37:59
+Child Weight 5: 4 29/05/2012 17:38:05
+Child Serial 5: 5000281 29/05/2012 17:38:09
+Child Weight 6: 2 29/05/2012 17:38:15
+Child Serial 6: 5000282 29/05/2012 17:38:20
+Child Weight 7: 6 29/05/2012 17:38:26
+Child Serial 7: 5000283 29/05/2012 17:38:30
+Child Weight 8: 3 29/05/2012 17:38:39
+Child Serial 8: 5000284 29/05/2012 17:38:50
+Child Weight 9: 4 29/05/2012 17:38:56
+Child Serial 9: 5000285 29/05/2012 17:39:05
+Child Weight 10: 3 29/05/2012 17:43:24
+Child Serial 10: 5000286 29/05/2012 17:43:33
+Balance Klot : 79
+****************************************

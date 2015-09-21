@@ -1,0 +1,21 @@
+2015-09-18 11:33:51 Part Code not Match|457394401|457565901|Next SN:0000000|Sup_PIC:
+2015-09-18 11:35:46 Part Code not Match|457565901|457394401|Next SN:0000000|Sup_PIC:233700
+
+2015-09-18 11:39:31 Part Code not Match|457394202|457394301|Next SN:5000289|Sup_PIC:
+2015-09-18 11:42:15 Master Serial No not match with next serial|0000000|5000289|Next SN:5000289|Sup_PIC:
+2015-09-18 11:43:00 Master Serial No not match with next serial|0000000|5000289|Next SN:5000289|Sup_PIC:233700
+
+2015-09-18 11:43:24 Master Serial No not match with next serial|0000000|5000289|Next SN:5000289|Sup_PIC:233700
+
+2015-09-18 12:03:12 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:
+2015-09-18 12:03:19 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:
+2015-09-18 12:06:51 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:233700
+
+2015-09-18 12:06:58 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:233700
+
+2015-09-18 13:27:48 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:
+2015-09-18 13:27:49 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:
+2015-09-18 13:30:29 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:233700
+
+2015-09-18 13:30:36 Invalid child partcode|X25924512||Next SN:0000000|Sup_PIC:233700
+

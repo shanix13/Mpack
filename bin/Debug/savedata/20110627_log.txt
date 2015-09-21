@@ -1,0 +1,209 @@
+****************************************
+START : 6/27/2011 12:04:26 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 10
+Line No: NW10
+Incomming Check OK
+Start Production Cycle 6/27/2011 12:05:18 PM
+Part Code Scan Match : 4-208-977-01
+Master Serial : S016025922C
+Child Qty : 1
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 1:40:31 PM
+Part Code Scan Match : 420897701
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 1:46:14 PM
+Part Code Scan Match : 420897701
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 1:51:43 PM
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 2:19:22 PM
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 2:20:23 PM
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 2:45:16 PM
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 2:46:41 PM
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 2:54:27 PM
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 9
+****************************************
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 3:11:11 PM
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 8
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 7
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 6
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 5
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 4
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 3
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 2
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 1
+****************************************
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Balance Klot : 0
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+Part Code Scan Match : 420897701
+Part Code Scan Match : 420897702
+****************************************
+START : 6/27/2011 3:38:09 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 5
+Line No: NW10
+****************************************
+START : 6/27/2011 3:40:07 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 5
+Line No: NW10
+Incomming Check OK
+Start Production Cycle 6/27/2011 3:40:57 PM
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 4
+****************************************
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 3
+****************************************
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 2
+****************************************
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 1
+****************************************
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 0
+****************************************
+START : 6/27/2011 3:41:58 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 3
+Line No: NW10
+Incomming Check OK
+Start Production Cycle 6/27/2011 3:42:35 PM
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 2
+****************************************
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 1
+****************************************
+Part Code Scan Match : 4-208-977-01
+Balance Klot : 0
+****************************************
+START : 6/27/2011 3:45:13 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 5
+Line No: NW10
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 3:45:43 PM
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 4
+****************************************
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 3
+****************************************
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 2
+****************************************
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 1
+****************************************
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 0
+****************************************
+START : 6/27/2011 3:46:42 PM
+P-Code:P17807503
+Start Serial No: 6025930
+Next Serial No: 6025930
+Klot ID: 01857653
+Klot Qty: 4905524708455
+Line No: NW10
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 3:47:43 PM
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+****************************************
+START : 6/27/2011 3:52:41 PM
+P-Code:P17807503
+Start Serial No: 6025925
+Next Serial No: 6025925
+Klot ID: 01857653
+Klot Qty: 5
+Line No: NW10
+Incomming Check OK
+Incomming Check OK
+Start Production Cycle 6/27/2011 3:53:23 PM
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 4
+****************************************
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 3
+****************************************
+Part Code Scan Match : 4-208-977-01
+Part Code Scan Match : Q70G170070011E
+Balance Klot : 2
+****************************************

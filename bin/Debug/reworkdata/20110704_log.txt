@@ -1,0 +1,12 @@
+****************************************
+START REWORK : 7/4/2011 2:41:43 PM
+P-Code:P17820066
+Start Serial No: 5026596
+Klot Qty: 100
+Line No: NW10
+DLot No: NW16700423
+Incomming Check OK
+Start Production Cycle 7/4/2011 2:42:50 PM
+Part Code Scan Match : 428746401
+Master Serial : S055026596N
+Child Qty : 5

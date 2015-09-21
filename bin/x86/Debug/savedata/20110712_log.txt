@@ -1,0 +1,8 @@
+****************************************
+START : 7/12/2011 11:49:04 AM
+P-Code:P17807503
+Start Serial No: 480383203
+Next Serial No: 480383203
+Klot ID: 12345678
+Klot Qty: 20
+Line No: NW10

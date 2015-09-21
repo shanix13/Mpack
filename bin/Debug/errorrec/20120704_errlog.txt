@@ -1,0 +1,20 @@
+2012-07-04 15:12:09 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:09 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:12 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:12 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:13 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:13 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:14 Master Serial No not match with next serial|-500028|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:14 Master Serial No not match with next serial|-500028|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:14 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:14 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:14 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:15 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:15 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:15 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:12:15 Master Serial No not match with next serial|9999|5000287|Next SN:5000287|Sup_PIC:
+2012-07-04 15:14:14 Item Part No Not Match|12345|4|Next SN:5000287|Sup_PIC:
+2012-07-04 15:14:38 Child serial no not in the range|5000266|Next SN:5000287|Sup_PIC:
+2012-07-04 15:15:21 Item Part No Not Match|12345|12345S015000288G|Next SN:5000288|Sup_PIC:
+2012-07-04 15:15:22 Item Part No Not Match|12345|1234512345S015000288G|Next SN:5000288|Sup_PIC:
+2012-07-04 15:15:23 Item Part No Not Match|12345|12345S015000288G|Next SN:5000288|Sup_PIC:

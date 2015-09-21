@@ -1,0 +1,32 @@
+Incomming Check OK
+Start Production Cycle 4/5/2012 11:33:44 AM
+Part Code Scan Match : 420994301
+Master Serial : S015000275Y
+Child Qty : 1
+Incomming Check OK
+Start Production Cycle 4/5/2012 11:46:56 AM
+Part Code Scan Match : 420994301
+Master Serial : S015000275Y
+Child Qty : 1
+Incomming Check OK
+Start Production Cycle 4/5/2012 12:44:36 PM
+Part Code Scan Match : 420994301
+Master Serial : S015000275Y
+Child Qty : 1
+Incomming Check OK
+Start Production Cycle 4/5/2012 12:45:40 PM
+Part Code Scan Match : 420994301420994301
+Master Serial : S015000275Y
+Child Qty : 1
+Child Weight 1: 5
+Child Serial 1: 5000275
+Balance Klot : 90
+****************************************
+Part Code Scan Match : 420994301
+Master Serial : S015000276Y
+Child Qty : 1
+Child Weight 1: 4
+Child Serial 1: 5000276
+Balance Klot : 89
+****************************************
+Part Code Scan Match : 420994301

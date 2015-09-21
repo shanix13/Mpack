@@ -1,0 +1,69 @@
+****************************************
+START : 6/17/2011 2:46:45 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 10
+Line No: NW10
+****************************************
+START : 6/17/2011 2:56:03 PM
+P-Code:P17807503
+Start Serial No: 6025927
+Next Serial No: 6025927
+Klot ID: 01857653
+Klot Qty: 6025922
+Line No: NW10
+****************************************
+START : 6/17/2011 2:57:17 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 6025922
+Line No: NW10
+****************************************
+START : 6/17/2011 2:58:41 PM
+P-Code:P17807503
+Start Serial No: 6025922
+Next Serial No: 6025922
+Klot ID: 01857653
+Klot Qty: 10
+Line No: NW10
+Incomming Check OK
+Start Production Cycle 6/17/2011 3:05:35 PM
+Part Code Scan Match : 4-208-977-01
+Master Serial : S016025922C
+Child Qty : 1
+****************************************
+START : 6/17/2011 3:42:34 PM
+P-Code:P98861604
+****************************************
+START : 6/17/2011 3:44:03 PM
+P-Code:P98861604
+****************************************
+START : 6/17/2011 5:24:34 PM
+P-Code:P98861604
+Start Serial No: 0000000
+Next Serial No: 0000000
+****************************************
+START : 6/17/2011 5:25:26 PM
+P-Code:P98861604
+Start Serial No: 0000000
+Next Serial No: 0000000
+Klot ID: 01857653
+Klot Qty: 10
+Line No: NW10
+Incomming Check OK
+Start Production Cycle 6/17/2011 5:26:49 PM
+****************************************
+START : 6/17/2011 5:37:38 PM
+P-Code:P98861604
+Start Serial No: 0000000
+Next Serial No: 0000000
+Klot ID: 01857653
+Klot Qty: 10
+Line No: NW10
+Incomming Check OK
+Start Production Cycle 6/17/2011 5:38:31 PM
+Part Code Scan Match : 420994301

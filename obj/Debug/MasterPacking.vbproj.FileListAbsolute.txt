@@ -1,0 +1,356 @@
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\bin\Debug\MasterPacking.exe
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\bin\Debug\MasterPacking.pdb
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\bin\Debug\MasterPacking.xml
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Documents and Settings\Thirumaran\My Documents\Visual Studio 2008\Projects\sophic\MasterPacking\MasterPacking\obj\Debug\MasterPacking.pdb
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.pdb
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\bin\Debug\MasterPacking.exe
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\bin\Debug\MasterPacking.pdb
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\bin\Debug\MasterPacking.xml
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\bin\Debug\MasterPacking.exe.config
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.exe
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.xml
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.pdb
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.FaultScan.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.frmMain.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.frmRework.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.frmSetting.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.Resources.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\bin\Debug\MasterPacking.exe
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\bin\Debug\MasterPacking.pdb
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 20110606\bin\Debug\MasterPacking.xml
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\bin\Debug\MasterPacking.exe.config
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.exe
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.xml
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.pdb
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\bin\Debug\MasterPacking.exe
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\bin\Debug\MasterPacking.pdb
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\bin\Debug\MasterPacking.xml
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.FaultScan.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.frmMain.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.frmRework.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.frmSetting.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.Resources.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 20110606\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+F:\Master Packing 20110611\MasterPacking\bin\Debug\MasterPacking.exe.config
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.exe
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.xml
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.pdb
+F:\Master Packing 20110611\MasterPacking\bin\Debug\MasterPacking.exe
+F:\Master Packing 20110611\MasterPacking\bin\Debug\MasterPacking.pdb
+F:\Master Packing 20110611\MasterPacking\bin\Debug\MasterPacking.xml
+F:\Master Packing 20110611\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+F:\Master Packing 20110611\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.pdb
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.exe
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.pdb
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.xml
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+C:\Users\Thiru\Documents\Visual Studio 2008\Projects\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.pdb
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.exe
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.pdb
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\bin\Debug\MasterPacking.xml
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+C:\Documents and Settings\user\Desktop\MasterPacking 201106113\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110627\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110704\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110714\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110803\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110807\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110816\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\MasterPacking 20110816\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\MasterPacking 20110816\MasterPacking\bin\Debug\MasterPacking.exe
+D:\MasterPacking 20110816\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\MasterPacking 20110816\MasterPacking\bin\Debug\MasterPacking.xml
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.exe
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.xml
+D:\MasterPacking 20110816\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.pdb
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.exe
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.pdb
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.xml
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+C:\Users\Sophic\Desktop\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.exe
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\bin\Debug\MasterPacking.xml
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.17\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\bin\Debug\MasterPacking.exe
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\bin\Debug\MasterPacking.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\bin\Debug\MasterPacking.xml
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+C:\Users\Toshiba\Documents\Visual Studio 2008\Projects\Sony\MasterPacking\MasterPacking 20110817 V3.19\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Documents and Settings\user\Desktop\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Documents and Settings\user\Desktop\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Documents and Settings\user\Desktop\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking_withtrial\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.exe.config
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.exe
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.xml
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.pdb
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.exe
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.pdb
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\bin\Debug\MasterPacking.xml
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20110817 V3.20\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.exe.config
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.exe
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.xml
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.pdb
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.exe
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.pdb
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.xml
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.exe.config
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.exe
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.xml
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.pdb
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.exe
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.pdb
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.xml
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\ResolveAssemblyReference.cache
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.BarcodeScannerFrm.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.FaultScan.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.frmMain.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.frmRework.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.frmSetting.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.Resources.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.SetupMasterFrm.resources
+E:\SophicAutomation\SonyPraiB\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.vbproj.GenerateResource.Cache
+C:\Documents and Settings\user\Desktop\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\bin\Debug\MasterPacking.exe.config
+C:\Documents and Settings\user\Desktop\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.exe
+C:\Documents and Settings\user\Desktop\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.xml
+C:\Documents and Settings\user\Desktop\MasterPacking\MasterPacking 20120326 V3.21\MasterPacking\obj\Debug\MasterPacking.pdb
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking 20120326 V3.21 - with wave\MasterPacking\bin\Debug\MasterPacking.exe.config
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking 20120326 V3.21 - with wave\MasterPacking\obj\Debug\MasterPacking.exe
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking 20120326 V3.21 - with wave\MasterPacking\obj\Debug\MasterPacking.xml
+D:\Sophic Automation\On Process Project\Sony\Prai\Master Packing\Source Code\MasterPacking 20120326 V3.21 - with wave\MasterPacking\obj\Debug\MasterPacking.pdb

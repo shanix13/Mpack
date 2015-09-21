@@ -1,0 +1,44 @@
+****************************************
+START REWORK : 7/14/2011 4:42:54 PM
+P-Code:P17807503
+Start Serial No: 6025927
+Klot ID: 01857653
+Klot Qty: 20
+Line No: NW10
+DLot No: 12345678901
+Incomming Check OK
+Start Production Cycle 7/14/2011 4:43:34 PM
+Part Code Scan Match : 428897901
+Incomming Check OK
+Start Production Cycle 7/14/2011 4:46:19 PM
+Part Code Scan Match : 428897901
+Master Serial : S056025922G
+Child Qty : 5
+Incomming Check OK
+Start Production Cycle 7/14/2011 4:47:21 PM
+Part Code Scan Match : 428897901
+Master Serial : S056025922G
+Child Qty : 5
+Child Weight 1: 23
+Incomming Check OK
+Start Production Cycle 7/14/2011 4:54:15 PM
+Part Code Scan Match : 428897901
+Master Serial : S056025927L
+Child Qty : 5
+Incomming Check OK
+Start Production Cycle 7/14/2011 5:00:23 PM
+Part Code Scan Match : 428897901
+Master Serial : S056025922G
+Child Qty : 5
+Child Weight 1: 22.8
+Child Serial 1: S016025922C
+Child Weight 2: 22.8
+Child Serial 2: S016025923D
+Child Weight 3: 22.8
+Child Serial 3: S016025924E
+Child Weight 4: 22.9
+Child Serial 4: S016025925F
+Child Weight 5: 22.9
+Child Serial 5: S016025926G
+Balance Klot : 15
+****************************************

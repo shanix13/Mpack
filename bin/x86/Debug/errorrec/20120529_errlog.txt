@@ -1,0 +1,43 @@
+2012-05-29 17:34:06 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:17 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:17 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:18 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:19 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:21 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:27 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:47 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:47 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:48 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:49 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:49 Master Serial No not match with next serial|-500027|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:49 Master Serial No not match with next serial|-500027|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:49 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:50 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:50 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:50 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:50 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:50 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:51 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:34:55 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:01 Master Serial No not match with next serial|9999|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:06 Item Part No Not Match|12345|S15000277Y|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:07 Item Part No Not Match|12345|S5000277Y|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:07 Item Part No Not Match|12345|S05000277Y|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:35 Invalid child partcode or serial no|5000267|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:36 Invalid child partcode or serial no|5000267|5000277|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:51 Child serial no not in the range|5000266|Next SN:5000277|Sup_PIC:
+2012-05-29 17:35:58 Item Part No Not Match|12345|5000278|Next SN:5000278|Sup_PIC:
+2012-05-29 17:35:58 Weight out of specification|5000278|Next SN:5000278|Sup_PIC:
+2012-05-29 17:36:11 Item Part No Not Match|12345|5000278|Next SN:5000278|Sup_PIC:
+2012-05-29 17:36:12 Weight out of specification|5000278|Next SN:5000278|Sup_PIC:
+2012-05-29 17:36:38 Item Part No Not Match|12345|5000278|Next SN:5000279|Sup_PIC:
+2012-05-29 17:36:38 Weight out of specification|5000278|Next SN:5000279|Sup_PIC:
+2012-05-29 17:37:24 Invalid child partcode or serial no|5000281|5000279|Next SN:5000279|Sup_PIC:
+2012-05-29 17:37:34 Invalid child partcode or serial no|5000280|5000279|Next SN:5000279|Sup_PIC:
+2012-05-29 17:38:35 Weight out of specification|1|Next SN:5000284|Sup_PIC:
+2012-05-29 17:38:45 Duplicate child serial no|5000283|Next SN:5000284|Sup_PIC:
+2012-05-29 17:38:46 Child serial no not in the range|5000266|Next SN:5000284|Sup_PIC:
+2012-05-29 17:38:50 Child serial no not in the range|5000266|Next SN:5000284|Sup_PIC:
+2012-05-29 17:38:58 Child serial no not in the range|5000266|Next SN:5000285|Sup_PIC:
+2012-05-29 17:43:29 Duplicate child serial no|5000285|Next SN:5000286|Sup_PIC:
+2012-05-29 17:43:32 Child serial no not in the range|5000266|Next SN:5000286|Sup_PIC:

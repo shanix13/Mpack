@@ -1,0 +1,14 @@
+2012-03-15 12:54:51 Item Part No Not Match|12345|2|Next SN:5000266|Sup_PIC:
+2012-03-15 12:58:51 Master Serial No not match with next serial|5000266|5000267|Next SN:5000267|Sup_PIC:
+2012-03-15 13:41:36 Master Serial No not match with next serial|5000267|5000268|Next SN:5000268|Sup_PIC:
+2012-03-15 13:43:48 Master Serial No not match with next serial|5000267|5000269|Next SN:5000269|Sup_PIC:
+2012-03-15 13:49:49 Item Part No Not Match|12345|3|Next SN:5000271|Sup_PIC:
+2012-03-15 13:50:43 Item Part No Not Match|12345|3|Next SN:5000271|Sup_PIC:
+2012-03-15 13:51:47 Item Part No Not Match|12345|3|Next SN:5000271|Sup_PIC:
+2012-03-15 13:57:37 Child serial no not in the range|5000266|Next SN:5000271|Sup_PIC:
+2012-03-15 13:59:00 Child serial no not in the range|5000266|Next SN:5000272|Sup_PIC:
+2012-03-15 13:59:13 Duplicate child serial no|5000271|Next SN:5000272|Sup_PIC:
+2012-03-15 13:59:16 Child serial no not in the range|5000266|Next SN:5000272|Sup_PIC:
+2012-03-15 14:02:53 Child serial no not in the range|5000266|Next SN:5000273|Sup_PIC:
+2012-03-15 14:04:09 Item Part No Not Match|12345|420994301|Next SN:5000274|Sup_PIC:
+2012-03-15 14:04:09 Weight out of specification|420994301|Next SN:5000274|Sup_PIC:
